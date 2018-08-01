@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question1"> The capital of Florida is Tampa? </string>
+    <string name="question2"> The capital of Michigan is Detroit? </string>
+    <string name="question3"> The capital of Virginia is Richmond? </string>
+    <string name="question4"> The capital of Maryland is Potomac? </string>
+    <string name="question5"> The capital of California is San Francisco? </string>
+    <string name="question6"> The capital of Ohio is Columbus? </string>
+    <string name="question7"> The capital of Pennsylvania is Pittsburgh? </string>
+    <string name="question8"> The capital of North Carolina is Savannah? </string>
+    <string name="question9"> The capital of North Dakota is Brussels? </string>
+    <string name="question10"> The capital of West Virginia is Tampa? </string>
+    <string name="question11"> The capital of Georgia is Tampa? </string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="hint_button">Hint</string>
+    <string name="correct_toast">Yah!</string>
+    <string name="incorrect_toast">It\'s WRONG</string>
+    <string name="warning_text">Are you sure?</string>
+    <string name="show_answer">SHOW ANSWER</string>
+    <string name="answer_text_view">SHOW ANSWER</string>
+    <string name="go_back">Go Back</string>
+    <string name="score">Score: 0</string>
+    <string name="input_name">Enter Name: </string>
+    <string name="enter_name">Enter Name: </string>
+    <string name="name_button">Submit Name</string>
+    <string name="first_place">First Place: </string>
+    <string name="second_place">Second Place: </string>
+
+</resources>
